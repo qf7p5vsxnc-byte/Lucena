@@ -112,7 +112,7 @@ Esc	Close dialog / exit fullscreen
 "Cost? Business model?"None. There is nothing to monetize because there is no server, no accountsystem, and no code path that could show you an ad.
 📄 License
 
-MIT — do whatever you want with it. (Adjust or remove this section to matchthe license you choose for the repo.)
+GPL 3.0
 
 ♞ Lucena — yours, offline, forever.
 
